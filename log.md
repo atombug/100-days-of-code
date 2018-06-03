@@ -18,3 +18,12 @@
 
 **Link to work:** 
 1.CSS + JS CLOCK (did it locally but will push on github soon)
+
+### Day 2: June 03, 2018
+
+**Today's Progress**: Completed 03 - Update CSS variables with JS of Javascript30.
+
+**Thoughts:** I need to learn more of document and event api of javascript inorder to good manipulation of DOM. References: [Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document) [Event API](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+**Link to work:** 
+1. Update CSS variables with JS (did it locally but will push on github soon)
