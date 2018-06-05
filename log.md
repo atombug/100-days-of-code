@@ -27,3 +27,11 @@
 
 **Link to work:** 
 1. Update CSS variables with JS (did it locally but will push on github soon)
+
+### Day 3: June 05, 2018
+
+**Today's Progress**: Completed 04 - Array Cardio Day 1 of Javascript30.
+
+**Thoughts:** Reduce is good and can be used as combination of map and filter. Array Destructuring is also good, though i need to use it more in order to remember.
+**Link to work:** 
+1. Array Cardio Day 1 (did it locally but will push on github soon)
