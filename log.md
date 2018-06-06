@@ -33,6 +33,7 @@
 **Today's Progress**: Completed 04 - Array Cardio Day 1 of Javascript30.
 
 **Thoughts:** Reduce is good and can be used as combination of map and filter. Array Destructuring is also good, though i need to use it more in order to remember.
+
 **Link to work:** 
 1. Array Cardio Day 1 (did it locally but will push on github soon)
 
@@ -41,5 +42,6 @@
 **Today's Progress**: Completed 05 - Flex Panels of Javascript30.
 
 **Thoughts:** FlexBox are great inorder to make it align perfect. FlexBox's Magnifying Property is Also need to be remembered ( flex : 5).
+
 **Link to work:** 
 1. Flex Panels (did it locally but will push on github soon)
