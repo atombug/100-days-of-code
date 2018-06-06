@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 01, 2018
+### Day 00: June 01, 2018
 
 **Today's Progress**: Learned Flexbox, started Javascript30 and did completed 01 - javascript drum kit.
 
@@ -10,7 +10,7 @@
 1.[FlexBox](https://flexboxfroggy.com/)
 2.Javascript Drum Kit (did it locally but will push on github soon)
 
-### Day 1: June 02, 2018
+### Day 01: June 02, 2018
 
 **Today's Progress**: Completed 02 - CSS + JS CLOCK of Javascript30.
 
@@ -19,7 +19,7 @@
 **Link to work:** 
 1.CSS + JS CLOCK (did it locally but will push on github soon)
 
-### Day 2: June 03, 2018
+### Day 02: June 03, 2018
 
 **Today's Progress**: Completed 03 - Update CSS variables with JS of Javascript30.
 
@@ -28,10 +28,18 @@
 **Link to work:** 
 1. Update CSS variables with JS (did it locally but will push on github soon)
 
-### Day 3: June 05, 2018
+### Day 03: June 05, 2018
 
 **Today's Progress**: Completed 04 - Array Cardio Day 1 of Javascript30.
 
 **Thoughts:** Reduce is good and can be used as combination of map and filter. Array Destructuring is also good, though i need to use it more in order to remember.
 **Link to work:** 
 1. Array Cardio Day 1 (did it locally but will push on github soon)
+
+### Day 04: June 06, 2018
+
+**Today's Progress**: Completed 05 - Flex Panels of Javascript30.
+
+**Thoughts:** FlexBox are great inorder to make it align perfect. FlexBox's Magnifying Property is Also need to be remembered ( flex : 5).
+**Link to work:** 
+1. Flex Panels (did it locally but will push on github soon)
