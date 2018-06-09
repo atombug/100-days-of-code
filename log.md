@@ -45,3 +45,21 @@
 
 **Link to work:** 
 1. Flex Panels (did it locally but will push on github soon)
+
+### Day 05: June 07, 2018
+
+**Today's Progress**: Leaned about AI, Neural Network and little bit about fetch api of JS, will implement it tomorrow.
+
+**Thoughts:** Fetch api is really helpful need to explore JS more deeper
+
+**Link to work:** 
+0 - none
+
+### Day 06: June 08, 2018
+
+**Today's Progress**: Completed Learning JS fetch api and build project of it
+
+**Thoughts:** Need to explore JS more deeper.
+
+**Link to work:** 
+1. Type Ahead (did it locally but will push on github soon)
