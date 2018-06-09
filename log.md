@@ -63,3 +63,12 @@
 
 **Link to work:** 
 1. Type Ahead (did it locally but will push on github soon)
+
+### Day 07: June 09, 2018
+
+**Today's Progress**: Learned some new JS array methods: some, every, find, findIndex
+
+**Thoughts:** Need to explore JS API from MDN more deeper.
+
+**Link to work:** 
+1. Array Cardio 02 (did it locally but will push on github soon)
